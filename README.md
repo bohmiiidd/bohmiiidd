@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center">Hi there, I'm Ahmed 👋</h1>
+<h1 align="center">Hi there, I'm Ahmed </h1>
 <h3 align="center">Cybersecurity Researcher | Python Automation Enthusiast | Exploit Developer | Web Developer | Penetration Tester</h3>
 
 <p align="center">
