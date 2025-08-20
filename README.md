@@ -27,7 +27,7 @@
   <img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
   <img alt="Hashcat" src="https://img.shields.io/badge/Hashcat-000000?style=for-the-badge"/>
   <img alt="Masscan" src="https://img.shields.io/badge/Masscan-1F2D3D?style=for-the-badge"/>
-  <img alt="Feroxbuster" src="https://img.shields.io/badge/Gobuster-444444?style=for-the-badge"/>
+  <img alt="Feroxbuster" src="https://img.shields.io/badge/FeroxBuster-444444?style=for-the-badge"/>
   <img alt="ffuf" src="https://img.shields.io/badge/ffuf-0B3D91?style=for-the-badge"/>
   <img alt="Nikto" src="https://img.shields.io/badge/Nikto-8A0707?style=for-the-badge"/>
 
@@ -55,9 +55,9 @@
   <img alt="Automation Scripts" src="https://img.shields.io/badge/Automation_Scripts-228B22?style=for-the-badge"/>
 
   <!-- Platforms & CTF -->
-  <img alt="CTF author" src="https://img.shields.io/badge/CTF_Challenges-FFD700?style=for-the-badge"/>
-  <img alt="Machines author" src="https://img.shields.io/badge/OverTheWire-00008B?style=for-the-badge"/>
-    <img alt="CTF Labs player" src="https://img.shields.io/badge/Bandit-00A86B?style=for-the-badge"/>
+  <img alt="CTF author" src="https://img.shields.io/badge/CTF author-FFD700?style=for-the-badge"/>
+  <img alt="Machines author" src="https://img.shields.io/badge/Machines author-00008B?style=for-the-badge"/>
+  <img alt="CTF Labs player" src="https://img.shields.io/badge/CTF Labs player-00A86B?style=for-the-badge"/>
 </p>
 
 ---
