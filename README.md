@@ -31,7 +31,7 @@ I enjoy taking unfamiliar systems apart, finding unexpected behavior, turning id
 
 <div align="center">
 <p>
-<i>Always learning. Always experimenting.</i>
+<i>Always learning. Always experimenting. https://bohmiiiidd.kyubisec.com </i>
 </p>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnQzcDB0cG5lamo2cm1leTRzcGdnc2dzbWR0M2JiMzVubWxwemQ4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13cswZEvNJM7ZK/giphy.gif" width="100%" alt="banner"/>
 
